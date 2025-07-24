@@ -1,0 +1,3 @@
+Hobbie1: surf
+Hobbie2: patin
+Hobbie3: futbol

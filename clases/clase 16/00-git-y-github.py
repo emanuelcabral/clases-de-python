@@ -1,0 +1,1 @@
+#se instala y configura git, se crea cuenta en github y se maneja varios comandos
