@@ -10,3 +10,6 @@ customer1 = Customer()  # Crea un objeto de la clase Customer llamado customer1
 
 # Obtener y mostrar el número de cuenta
 print("El número de cuenta del cliente es:", customer1.getAccountNumber())  # Imprime el número de cuenta del cliente utilizando el método getAccountNumber()
+
+
+#Para acceder a un valor encapsulado, se utiliza un método que devuelve ese valor. Ese método puede llamarse con el prefijo get (por convención), o tener cualquier otro nombre
